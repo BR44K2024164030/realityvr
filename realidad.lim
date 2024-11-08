@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <recursos>recursos</recursos>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <titulo>realidad virtual y aumentada</titulo>
+        <autor>Dilan</autor>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >CORRECTO</correcto>
+        <incorrecto son="" modo="1" >INCORRECTO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">1_Realidad_Aumentada_y_Virtual.png</imaxe>
+        </paxina>
+        <paxina id="2" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">Captura_de_pantalla_2024-10-31_184619.png</imaxe>
+        </paxina>
+        <paxina id="3" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">Captura_de_pantalla_2024-10-31_184643.png</imaxe>
+        </paxina>
+        <paxina id="4" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">4_Diferencias_entre_realidad_aumentada_y_virtual.png</imaxe>
+        </paxina>
+        <paxina id="5" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">5_Aplicaciones_de_la_realidad_aumentada.png</imaxe>
+        </paxina>
+        <paxina id="6" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">6_Aplicaciones_de_la_realidad_virtual.png</imaxe>
+        </paxina>
+        <paxina id="7" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">7_Ventajas_de_la_realidad_aumentada_y_virtual.png</imaxe>
+        </paxina>
+        <paxina id="8" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">8_Desaf_ios_tecnol_ogicos.png</imaxe>
+        </paxina>
+        <paxina id="9" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">9_Futuro_de_la_realidad_aumentada_y_virtual.png</imaxe>
+        </paxina>
+        <paxina id="10" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">10_Casos_de__exito.png</imaxe>
+        </paxina>
+        <paxina id="11" >
+              <tipo>3</tipo>
+              <imaxe>puzzle.jpg</imaxe>
+              <filas>9</filas>
+              <columnas>9</columnas>
+              <reixa>1</reixa>
+            <forma>0</forma>
+        </paxina>
+    </libro>
+</lim>
